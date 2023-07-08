@@ -4,5 +4,3 @@ Created in November 25th, 2019, we are a small independent team from Portugal wh
 As a team, we always find ways of working collectively and mixing our multiple ideas to get an even bigger and better one.
 
 ## Join our community
-
-https://discord.gg/4MpFUwEvqq
